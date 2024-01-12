@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] ar)
     {
-        System.out.println("В заджаче в водилось 3 1");
+        System.out.println("В задаче в водилось числа 3 1");
         Scanner s = new Scanner(System.in);
 
         int r = s.nextInt() , t =  s.nextInt();

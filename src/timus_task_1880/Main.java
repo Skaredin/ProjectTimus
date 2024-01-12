@@ -2,8 +2,6 @@ package timus_task_1880;
 
 import java.io.*;
 import java.util.Arrays;
-
-
 public class Main {
     public static void main(String[] ar) throws IOException {
         String inp = "src/timus_task_1880/file.txt";
@@ -17,7 +15,6 @@ public class Main {
         String[] st2 = bufferedReader.readLine().split(" ");
         int s3 = Integer.parseInt(bufferedReader.readLine());
         String[] st3 = bufferedReader.readLine().split(" ");
-
 
         int as = s1 + s2 + s3;
         String[] st = new String[as];

@@ -6,9 +6,10 @@ import java.util.Scanner;
 public class Mein {
     public static void  main(String[] ar)
     {
+        System.out.println("В задаче в водилось числа 4 7");
         Scanner in = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
-        System.out.println("В ведите число A и B");
+        System.out.println("В ведите число A и B ");
         int a = in.nextInt(), b = in.nextInt();
 
         int num = a+b -1;

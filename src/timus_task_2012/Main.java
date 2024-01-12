@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] ar)
     {
+        System.out.println("В задаче в водилось числа 7 или 5");
         Scanner in = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
         System.out.println("В ведите любую цифру от 1 до ~~");

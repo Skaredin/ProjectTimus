@@ -7,6 +7,7 @@ public class Main {
     {
         Scanner in = new Scanner(System.in);
 
+
         System.out.println("Код с задания\n" +
                 "1 2\n" +
                 "2 1\n" +

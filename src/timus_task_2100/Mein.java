@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
 public class Mein {
     public static void main(String[] ar) {
         String inp = "src/timus_task_2100/input.txt";
@@ -15,8 +14,6 @@ public class Mein {
 
         int mars = 2;
         try {
-
-
 
             BufferedReader bufferedReader = oj ? new BufferedReader(new InputStreamReader(System.in)) : new BufferedReader(new FileReader(inp));
             BufferedReader bufferedReader2 = oj ? new BufferedReader(new InputStreamReader(System.in)) : new BufferedReader(new FileReader(inp2));

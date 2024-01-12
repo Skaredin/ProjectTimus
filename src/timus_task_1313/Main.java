@@ -1,10 +1,5 @@
 package timus_task_1313;
-
 import java.io.*;
-
-
-
-
 public class Main {
     public static void main(String[] ar)  {
 
